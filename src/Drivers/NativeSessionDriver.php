@@ -6,7 +6,7 @@ namespace CommonPHP\Session\Drivers;
 
 use CommonPHP\Session\Contracts\AbstractSessionDriver;
 
-class NativeSessionException extends AbstractSessionDriver
+class NativeSessionDriver extends AbstractSessionDriver
 {
 
 }
