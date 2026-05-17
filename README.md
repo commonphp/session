@@ -35,6 +35,7 @@ Session start failures, invalid drivers, storage failures, and corrupted session
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)
